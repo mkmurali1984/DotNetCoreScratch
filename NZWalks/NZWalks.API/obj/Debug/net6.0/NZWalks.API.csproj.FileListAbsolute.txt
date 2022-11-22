@@ -65,3 +65,5 @@ C:\Workout\DotNetCoreScratch\NZWalks\NZWalks.API\obj\Debug\net6.0\refint\NZWalks
 C:\Workout\DotNetCoreScratch\NZWalks\NZWalks.API\obj\Debug\net6.0\NZWalks.API.pdb
 C:\Workout\DotNetCoreScratch\NZWalks\NZWalks.API\obj\Debug\net6.0\NZWalks.API.genruntimeconfig.cache
 C:\Workout\DotNetCoreScratch\NZWalks\NZWalks.API\obj\Debug\net6.0\ref\NZWalks.API.dll
+C:\Workout\DotNetCoreScratch\NZWalks\NZWalks.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Workout\DotNetCoreScratch\NZWalks\NZWalks.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
